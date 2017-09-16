@@ -1,3 +1,4 @@
 *.png
 __pycahce__
 *.pyc
+.ipynb_checkpoints
